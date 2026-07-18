@@ -2,7 +2,7 @@
   --pf-bg: #06111f;
   --pf-bg-deep: #030812;
   --pf-page-bg: #f4f8fb;
-  --pf-surface: rgba(255, 255, 255, 0.1);
+  --pf-surface: rgba(255, 255, 255, 0.2);
   --pf-card: #ffffff;
   --pf-text: #f7fbff;
   --pf-dark-text: #102033;
@@ -11,7 +11,7 @@
   --pf-blue: #1f7aff;
   --pf-cyan: #45d4ff;
   --pf-line: rgba(255, 255, 255, 0.16);
-  --pf-dark-line: rgba(16, 32, 51, 0.12);
+  --pf-dark-line: rgba(16, 32, 51, 0.11);
   --pf-shadow: rgba(0, 18, 42, 0.14);
 }
 
